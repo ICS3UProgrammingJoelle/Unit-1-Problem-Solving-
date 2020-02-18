@@ -1,0 +1,10 @@
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Unit 1 (Problem Solving)\SchoolMascot\SchoolMascot\obj\Debug\SchoolMascot.csprojAssemblyReference.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Unit 1 (Problem Solving)\SchoolMascot\SchoolMascot\obj\Debug\SchoolMascot.Properties.Resources.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Unit 1 (Problem Solving)\SchoolMascot\SchoolMascot\obj\Debug\SchoolMascot.SchoolMascotForm.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Unit 1 (Problem Solving)\SchoolMascot\SchoolMascot\obj\Debug\SchoolMascot.csproj.GenerateResource.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Unit 1 (Problem Solving)\SchoolMascot\SchoolMascot\obj\Debug\SchoolMascot.csproj.CoreCompileInputs.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Unit 1 (Problem Solving)\SchoolMascot\SchoolMascot\bin\Debug\SchoolMascot.exe.config
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Unit 1 (Problem Solving)\SchoolMascot\SchoolMascot\bin\Debug\SchoolMascot.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Unit 1 (Problem Solving)\SchoolMascot\SchoolMascot\bin\Debug\SchoolMascot.pdb
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Unit 1 (Problem Solving)\SchoolMascot\SchoolMascot\obj\Debug\SchoolMascot.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Unit 1 (Problem Solving)\SchoolMascot\SchoolMascot\obj\Debug\SchoolMascot.pdb
