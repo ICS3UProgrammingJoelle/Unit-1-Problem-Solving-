@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
+            this.mnuProgram = new System.Windows.Forms.MenuStrip();
             this.mnuFile = new System.Windows.Forms.ToolStripMenuItem();
             this.mniExit = new System.Windows.Forms.ToolStripMenuItem();
             this.mnuCat = new System.Windows.Forms.ToolStripMenuItem();
@@ -38,21 +38,21 @@
             this.mniDog1 = new System.Windows.Forms.ToolStripMenuItem();
             this.mniDog2 = new System.Windows.Forms.ToolStripMenuItem();
             this.picCat = new System.Windows.Forms.PictureBox();
-            this.menuStrip1.SuspendLayout();
+            this.mnuProgram.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.picCat)).BeginInit();
             this.SuspendLayout();
             // 
-            // menuStrip1
+            // mnuProgram
             // 
-            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.mnuProgram.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.mnuFile,
             this.mnuCat,
             this.mnuDog});
-            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
-            this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(800, 24);
-            this.menuStrip1.TabIndex = 1;
-            this.menuStrip1.Text = "menuStrip1";
+            this.mnuProgram.Location = new System.Drawing.Point(0, 0);
+            this.mnuProgram.Name = "mnuProgram";
+            this.mnuProgram.Size = new System.Drawing.Size(800, 24);
+            this.mnuProgram.TabIndex = 1;
+            this.mnuProgram.Text = "menuStrip1";
             // 
             // mnuFile
             // 
@@ -105,14 +105,14 @@
             // mniDog1
             // 
             this.mniDog1.Name = "mniDog1";
-            this.mniDog1.Size = new System.Drawing.Size(180, 22);
+            this.mniDog1.Size = new System.Drawing.Size(102, 22);
             this.mniDog1.Text = "Dog1";
             this.mniDog1.Click += new System.EventHandler(this.LamborToolStripMenuItem_Click);
             // 
             // mniDog2
             // 
             this.mniDog2.Name = "mniDog2";
-            this.mniDog2.Size = new System.Drawing.Size(180, 22);
+            this.mniDog2.Size = new System.Drawing.Size(102, 22);
             this.mniDog2.Text = "Dog2";
             this.mniDog2.Click += new System.EventHandler(this.MniDog2_Click);
             // 
@@ -133,13 +133,13 @@
             this.BackColor = System.Drawing.SystemColors.Highlight;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.picCat);
-            this.Controls.Add(this.menuStrip1);
-            this.MainMenuStrip = this.menuStrip1;
+            this.Controls.Add(this.mnuProgram);
+            this.MainMenuStrip = this.mnuProgram;
             this.Name = "frmMovingCat";
             this.Text = "Moving Cat  by: Joelle Ishimwe";
             this.Load += new System.EventHandler(this.MovingCatForm_Load);
-            this.menuStrip1.ResumeLayout(false);
-            this.menuStrip1.PerformLayout();
+            this.mnuProgram.ResumeLayout(false);
+            this.mnuProgram.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.picCat)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -149,7 +149,7 @@
         #endregion
 
         private System.Windows.Forms.PictureBox picCat;
-        private System.Windows.Forms.MenuStrip menuStrip1;
+        private System.Windows.Forms.MenuStrip mnuProgram;
         private System.Windows.Forms.ToolStripMenuItem mnuFile;
         private System.Windows.Forms.ToolStripMenuItem mniExit;
         private System.Windows.Forms.ToolStripMenuItem mnuCat;

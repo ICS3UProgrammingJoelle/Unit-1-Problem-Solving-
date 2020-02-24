@@ -1,0 +1,10 @@
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Unit 1 (Problem Solving)\PerAreaJoelle\PerAreaJoelle\bin\Debug\PerAreaJoelle.exe.config
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Unit 1 (Problem Solving)\PerAreaJoelle\PerAreaJoelle\bin\Debug\PerAreaJoelle.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Unit 1 (Problem Solving)\PerAreaJoelle\PerAreaJoelle\bin\Debug\PerAreaJoelle.pdb
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Unit 1 (Problem Solving)\PerAreaJoelle\PerAreaJoelle\obj\Debug\PerAreaJoelle.csprojAssemblyReference.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Unit 1 (Problem Solving)\PerAreaJoelle\PerAreaJoelle\obj\Debug\PerAreaJoelle.frmPerArea.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Unit 1 (Problem Solving)\PerAreaJoelle\PerAreaJoelle\obj\Debug\PerAreaJoelle.Properties.Resources.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Unit 1 (Problem Solving)\PerAreaJoelle\PerAreaJoelle\obj\Debug\PerAreaJoelle.csproj.GenerateResource.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Unit 1 (Problem Solving)\PerAreaJoelle\PerAreaJoelle\obj\Debug\PerAreaJoelle.csproj.CoreCompileInputs.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Unit 1 (Problem Solving)\PerAreaJoelle\PerAreaJoelle\obj\Debug\PerAreaJoelle.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Unit 1 (Problem Solving)\PerAreaJoelle\PerAreaJoelle\obj\Debug\PerAreaJoelle.pdb
