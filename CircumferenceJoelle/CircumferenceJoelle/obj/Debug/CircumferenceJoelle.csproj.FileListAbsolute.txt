@@ -1,0 +1,10 @@
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Unit 1 (Problem Solving)\CircumferenceJoelle\CircumferenceJoelle\bin\Debug\CircumferenceJoelle.exe.config
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Unit 1 (Problem Solving)\CircumferenceJoelle\CircumferenceJoelle\bin\Debug\CircumferenceJoelle.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Unit 1 (Problem Solving)\CircumferenceJoelle\CircumferenceJoelle\bin\Debug\CircumferenceJoelle.pdb
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Unit 1 (Problem Solving)\CircumferenceJoelle\CircumferenceJoelle\obj\Debug\CircumferenceJoelle.csprojAssemblyReference.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Unit 1 (Problem Solving)\CircumferenceJoelle\CircumferenceJoelle\obj\Debug\CircumferenceJoelle.frmCircumference.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Unit 1 (Problem Solving)\CircumferenceJoelle\CircumferenceJoelle\obj\Debug\CircumferenceJoelle.Properties.Resources.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Unit 1 (Problem Solving)\CircumferenceJoelle\CircumferenceJoelle\obj\Debug\CircumferenceJoelle.csproj.GenerateResource.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Unit 1 (Problem Solving)\CircumferenceJoelle\CircumferenceJoelle\obj\Debug\CircumferenceJoelle.csproj.CoreCompileInputs.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Unit 1 (Problem Solving)\CircumferenceJoelle\CircumferenceJoelle\obj\Debug\CircumferenceJoelle.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Unit 1 (Problem Solving)\CircumferenceJoelle\CircumferenceJoelle\obj\Debug\CircumferenceJoelle.pdb
