@@ -39,7 +39,8 @@ namespace CircumferenceJoelle
             circumference = 2 * radius * Math.PI;
 
             // insert the circumfrence into it's respectible labels
-            this.lblCircumferenceAnswer.Text = Convert.ToString(circumference) + "cm";
+            this.lblCircumferenceAnswer.Text = Convert.ToString(circumference) + " cm";
+            this.lblCircumferenceAnswer.Text = Convert.ToString(Math.Round(circumference, 2));
 
             //display the circumfrence
             this.lblCircumferenceAnswer.Show();
