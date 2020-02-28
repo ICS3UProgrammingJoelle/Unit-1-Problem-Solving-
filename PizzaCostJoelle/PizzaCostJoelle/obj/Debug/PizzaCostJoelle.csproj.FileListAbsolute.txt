@@ -1,0 +1,10 @@
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Unit 1 (Problem Solving)\PizzaCostJoelle\PizzaCostJoelle\bin\Debug\PizzaCostJoelle.exe.config
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Unit 1 (Problem Solving)\PizzaCostJoelle\PizzaCostJoelle\bin\Debug\PizzaCostJoelle.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Unit 1 (Problem Solving)\PizzaCostJoelle\PizzaCostJoelle\bin\Debug\PizzaCostJoelle.pdb
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Unit 1 (Problem Solving)\PizzaCostJoelle\PizzaCostJoelle\obj\Debug\PizzaCostJoelle.csprojAssemblyReference.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Unit 1 (Problem Solving)\PizzaCostJoelle\PizzaCostJoelle\obj\Debug\PizzaCostJoelle.frmPizzaCost.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Unit 1 (Problem Solving)\PizzaCostJoelle\PizzaCostJoelle\obj\Debug\PizzaCostJoelle.Properties.Resources.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Unit 1 (Problem Solving)\PizzaCostJoelle\PizzaCostJoelle\obj\Debug\PizzaCostJoelle.csproj.GenerateResource.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Unit 1 (Problem Solving)\PizzaCostJoelle\PizzaCostJoelle\obj\Debug\PizzaCostJoelle.csproj.CoreCompileInputs.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Unit 1 (Problem Solving)\PizzaCostJoelle\PizzaCostJoelle\obj\Debug\PizzaCostJoelle.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Unit 1 (Problem Solving)\PizzaCostJoelle\PizzaCostJoelle\obj\Debug\PizzaCostJoelle.pdb

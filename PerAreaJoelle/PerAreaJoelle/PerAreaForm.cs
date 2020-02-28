@@ -57,7 +57,7 @@ namespace PerAreaJoelle
             perimeter = width + width + length + length;
 
             //insert the area and perimeter into their respective labels
-            this.lblPerimeterAnswer.Text = Convert.ToString(perimeter) + " meters²";
+            this.lblPerimeterAnswer.Text = Convert.ToString(perimeter) + " meters";
             this.lblAreaAnswer.Text = Convert.ToString(area) + " meters²";
 
             //display the perimeter and area answers

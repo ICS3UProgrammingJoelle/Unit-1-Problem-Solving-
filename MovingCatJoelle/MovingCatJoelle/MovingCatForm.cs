@@ -33,22 +33,26 @@ namespace MovingCatJoelle
 
         private void MniExit_Click(object sender, EventArgs e)
         {
+            //close the program
             this.Close();
         }
 
         private void MniCat1_Click(object sender, EventArgs e)
         {
+            //assigne the correct image to the apropriate menu item
             this.picCat.Image = Properties.Resources.cat1;
                 
         }
 
         private void MniCat2_Click(object sender, EventArgs e)
         {
+            //assigne the correct image to the apropriate menu item
             this.picCat.Image = Properties.Resources.cat2;
         }
 
         private void LamborToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            //assigne the correct image to the apropriate menu item
             this.picCat.Image = Properties.Resources.Dog1;
         }
 
@@ -59,6 +63,7 @@ namespace MovingCatJoelle
 
         private void MniDog2_Click(object sender, EventArgs e)
         {
+            //assigne the correct image to the apropriate menu item
             this.picCat.Image = Properties.Resources.Dog2;
         }
     }

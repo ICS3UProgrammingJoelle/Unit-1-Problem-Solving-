@@ -56,9 +56,10 @@
             this.lblCircumferenceState.Font = new System.Drawing.Font("Revit_HEB_DWG", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblCircumferenceState.Location = new System.Drawing.Point(96, 284);
             this.lblCircumferenceState.Name = "lblCircumferenceState";
-            this.lblCircumferenceState.Size = new System.Drawing.Size(171, 17);
+            this.lblCircumferenceState.Size = new System.Drawing.Size(181, 17);
             this.lblCircumferenceState.TabIndex = 1;
-            this.lblCircumferenceState.Text = "The circumfrence is:";
+            this.lblCircumferenceState.Text = "The circumference is:";
+            this.lblCircumferenceState.Click += new System.EventHandler(this.LblCircumferenceState_Click);
             // 
             // lblCircumferenceAnswer
             // 
@@ -108,7 +109,7 @@
             // exitToolStripMenuItem
             // 
             this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            this.exitToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.exitToolStripMenuItem.Size = new System.Drawing.Size(93, 22);
             this.exitToolStripMenuItem.Text = "Exit";
             // 
             // frmCircumference
