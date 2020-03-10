@@ -30,13 +30,17 @@ namespace PizzaCostJoelle
         private void BtnCalculate_Click(object sender, EventArgs e)
         {
             //declare the local variables
-            double diameter, total;
+            double diameter, subtotal, total;
+
+            //declare constant
+            double TAX = 1.13;
 
             //convert the string diameter into a double
             diameter = double.Parse(txtDiameter.Text);
 
             //calucate the cost of the pizza after tax
-            total = ((0.5 * diameter) + 0.99 + 0.75) * 1.13;
+            subtotal = (0.5 * diameter) + 0.99 + 0.75;
+            total = subtotal * TAX;
 
             //convert the total into a string
             this.lblCost.Text = "$ " + Convert.ToString(Math.Round(total,2));

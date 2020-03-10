@@ -55,7 +55,6 @@
             this.lblDiameter.Size = new System.Drawing.Size(436, 27);
             this.lblDiameter.TabIndex = 1;
             this.lblDiameter.Text = "Enter the diameter of the pizza (in inches): ";
-            this.lblDiameter.Click += new System.EventHandler(this.TxtDiameter_Click);
             // 
             // lblStateCost
             // 
@@ -96,7 +95,6 @@
             this.Controls.Add(this.btnCalculate);
             this.Name = "frmPizzaCost";
             this.Text = "PizzaCost   by: Joelle Ishimwe";
-            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
